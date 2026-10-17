@@ -1,2 +1,4 @@
-Partner Collaborator: blessyanne-igdoy >> collab.txt
-echo Partner Collaborator: blessyanne-igdoy
+
+
+Hello, Blessy!
+ - added by sheyniecssz (owner)
